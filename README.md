@@ -17,7 +17,7 @@
 将此目录放入目标宿主的 skill 目录，具体目录请以宿主官方文档为准：
 
 ```bash
-git clone https://github.com/2021291696/setup-tool.git <your-skill-directory>/setup-tool
+git clone https://github.com/solplum/setup-tool.git <your-skill-directory>/setup-tool
 ```
 
 若宿主不支持 skill 文件，仍可把 `SKILL.md` 作为工具接入流程的可读指令使用。
